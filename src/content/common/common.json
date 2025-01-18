@@ -1,0 +1,30 @@
+{
+    "name": "Harsh Korat",
+    "logoType": {
+        "mobile": "HP",
+        "desktop": "Harsh Korat"
+    },
+    "mainPicture": "/assets/HP.webp",
+    "mainPictureJPG": "/assets/HP.jpeg",
+    "pronunciation": "/ri-shi-kaysh/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "hp",
+    "email": "koratharsh31@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/harsh-korat-419759168/",
+    "github": "https://github.com/hrishikeshpaul",
+    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/harsh-korat-419759168/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/harshkorat"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:koratharsh31@gmail.com"
+        }
+    ]
+}
