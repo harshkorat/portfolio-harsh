@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-harsh/static/css/main.2b02ef74.css",
+    "main.css": "/portfolio-harsh/static/css/main.1dad31ee.css",
     "main.js": "/portfolio-harsh/static/js/main.38f2e15f.js",
     "static/js/734.313e4d56.chunk.js": "/portfolio-harsh/static/js/734.313e4d56.chunk.js",
     "static/js/914.e2e26327.chunk.js": "/portfolio-harsh/static/js/914.e2e26327.chunk.js",
@@ -23,7 +23,7 @@
     "static/media/about.md": "/portfolio-harsh/static/media/about.bca52125f60debfccafc.md",
     "static/media/landing.md": "/portfolio-harsh/static/media/landing.afd86d4b591a8f8f648f.md",
     "static/media/cursor.svg": "/portfolio-harsh/static/media/cursor.f57b6d0bdd5deb2949a1.svg",
-    "main.2b02ef74.css.map": "/portfolio-harsh/static/css/main.2b02ef74.css.map",
+    "main.1dad31ee.css.map": "/portfolio-harsh/static/css/main.1dad31ee.css.map",
     "main.38f2e15f.js.map": "/portfolio-harsh/static/js/main.38f2e15f.js.map",
     "734.313e4d56.chunk.js.map": "/portfolio-harsh/static/js/734.313e4d56.chunk.js.map",
     "914.e2e26327.chunk.js.map": "/portfolio-harsh/static/js/914.e2e26327.chunk.js.map",
@@ -43,7 +43,7 @@
     "219.27e90527.chunk.js.map": "/portfolio-harsh/static/js/219.27e90527.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b02ef74.css",
+    "static/css/main.1dad31ee.css",
     "static/js/main.38f2e15f.js"
   ]
 }
