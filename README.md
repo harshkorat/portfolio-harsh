@@ -30,5 +30,5 @@ $ npm build
 
 ## Connect
 
-- Website at <a href="https://hrishikeshpaul.github.io/" target="_blank">`https://hrishikeshpaul.github.io/`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/hrishikeshpaul/" target="_blank">`hrishikeshpaul`</a>
+- Website at <a href="https://harshkorat.github.io/portfolio-harsh/" target="_blank">`https://harshkorat.github.io/portfolio-harsh/`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/harsh-korat-419759168/" target="_blank">`harshkorat`</a>
