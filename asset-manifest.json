@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-harsh/static/css/main.1dad31ee.css",
-    "main.js": "/portfolio-harsh/static/js/main.438d8361.js",
-    "static/js/734.05949435.chunk.js": "/portfolio-harsh/static/js/734.05949435.chunk.js",
-    "static/js/914.41b1f45f.chunk.js": "/portfolio-harsh/static/js/914.41b1f45f.chunk.js",
+    "main.css": "/portfolio-harsh/static/css/main.a0cd3232.css",
+    "main.js": "/portfolio-harsh/static/js/main.9786fe50.js",
+    "static/js/734.126f2d1f.chunk.js": "/portfolio-harsh/static/js/734.126f2d1f.chunk.js",
+    "static/js/914.ff723503.chunk.js": "/portfolio-harsh/static/js/914.ff723503.chunk.js",
     "static/js/384.6dbd65a2.chunk.js": "/portfolio-harsh/static/js/384.6dbd65a2.chunk.js",
-    "static/js/823.4e16b458.chunk.js": "/portfolio-harsh/static/js/823.4e16b458.chunk.js",
-    "static/js/29.b9002d63.chunk.js": "/portfolio-harsh/static/js/29.b9002d63.chunk.js",
-    "static/js/580.ca90d63b.chunk.js": "/portfolio-harsh/static/js/580.ca90d63b.chunk.js",
-    "static/js/607.72ba6a0e.chunk.js": "/portfolio-harsh/static/js/607.72ba6a0e.chunk.js",
+    "static/js/823.c583ad1e.chunk.js": "/portfolio-harsh/static/js/823.c583ad1e.chunk.js",
+    "static/js/29.8db503cf.chunk.js": "/portfolio-harsh/static/js/29.8db503cf.chunk.js",
+    "static/js/580.0448fbf9.chunk.js": "/portfolio-harsh/static/js/580.0448fbf9.chunk.js",
+    "static/js/607.51e38eef.chunk.js": "/portfolio-harsh/static/js/607.51e38eef.chunk.js",
     "static/js/787.e99e9158.chunk.js": "/portfolio-harsh/static/js/787.e99e9158.chunk.js",
     "static/js/923.70f8e88b.chunk.js": "/portfolio-harsh/static/js/923.70f8e88b.chunk.js",
     "static/js/617.ead875ea.chunk.js": "/portfolio-harsh/static/js/617.ead875ea.chunk.js",
@@ -22,16 +22,16 @@
     "index.html": "/portfolio-harsh/index.html",
     "static/media/about.md": "/portfolio-harsh/static/media/about.bca52125f60debfccafc.md",
     "static/media/landing.md": "/portfolio-harsh/static/media/landing.afd86d4b591a8f8f648f.md",
-    "static/media/cursor.svg": "/portfolio-harsh/static/media/cursor.f57b6d0bdd5deb2949a1.svg",
-    "main.1dad31ee.css.map": "/portfolio-harsh/static/css/main.1dad31ee.css.map",
-    "main.438d8361.js.map": "/portfolio-harsh/static/js/main.438d8361.js.map",
-    "734.05949435.chunk.js.map": "/portfolio-harsh/static/js/734.05949435.chunk.js.map",
-    "914.41b1f45f.chunk.js.map": "/portfolio-harsh/static/js/914.41b1f45f.chunk.js.map",
+    "static/media/cursor.svg": "/portfolio-harsh/static/media/cursor.3989a4ea8fc8aa4df44e.svg",
+    "main.a0cd3232.css.map": "/portfolio-harsh/static/css/main.a0cd3232.css.map",
+    "main.9786fe50.js.map": "/portfolio-harsh/static/js/main.9786fe50.js.map",
+    "734.126f2d1f.chunk.js.map": "/portfolio-harsh/static/js/734.126f2d1f.chunk.js.map",
+    "914.ff723503.chunk.js.map": "/portfolio-harsh/static/js/914.ff723503.chunk.js.map",
     "384.6dbd65a2.chunk.js.map": "/portfolio-harsh/static/js/384.6dbd65a2.chunk.js.map",
-    "823.4e16b458.chunk.js.map": "/portfolio-harsh/static/js/823.4e16b458.chunk.js.map",
-    "29.b9002d63.chunk.js.map": "/portfolio-harsh/static/js/29.b9002d63.chunk.js.map",
-    "580.ca90d63b.chunk.js.map": "/portfolio-harsh/static/js/580.ca90d63b.chunk.js.map",
-    "607.72ba6a0e.chunk.js.map": "/portfolio-harsh/static/js/607.72ba6a0e.chunk.js.map",
+    "823.c583ad1e.chunk.js.map": "/portfolio-harsh/static/js/823.c583ad1e.chunk.js.map",
+    "29.8db503cf.chunk.js.map": "/portfolio-harsh/static/js/29.8db503cf.chunk.js.map",
+    "580.0448fbf9.chunk.js.map": "/portfolio-harsh/static/js/580.0448fbf9.chunk.js.map",
+    "607.51e38eef.chunk.js.map": "/portfolio-harsh/static/js/607.51e38eef.chunk.js.map",
     "787.e99e9158.chunk.js.map": "/portfolio-harsh/static/js/787.e99e9158.chunk.js.map",
     "923.70f8e88b.chunk.js.map": "/portfolio-harsh/static/js/923.70f8e88b.chunk.js.map",
     "617.ead875ea.chunk.js.map": "/portfolio-harsh/static/js/617.ead875ea.chunk.js.map",
@@ -43,7 +43,7 @@
     "219.27e90527.chunk.js.map": "/portfolio-harsh/static/js/219.27e90527.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dad31ee.css",
-    "static/js/main.438d8361.js"
+    "static/css/main.a0cd3232.css",
+    "static/js/main.9786fe50.js"
   ]
 }
