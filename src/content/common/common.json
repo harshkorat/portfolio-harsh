@@ -4,9 +4,9 @@
         "mobile": "HK",
         "desktop": "Harsh Korat"
     },
-    "mainPicture": "/portfolio-harsh/assets/HP.webp",
-    "mainPictureJPG": "/portfolio-harsh/assets/HP.jpeg",
-    "pronunciation": "ri-shi-kaysh/",
+    "mainPicture": "/portfolio-harsh/assets/HK.webp",
+    "mainPictureJPG": "/portfolio-harsh/assets/HK.jpeg",
+    "pronunciation": "/haarsh ko-rat/",
     "audioFile": "/portfolio-harsh/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
     "email": "koratharsh31@gmail.com",
