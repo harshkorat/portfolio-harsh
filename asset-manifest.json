@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio-harsh/static/css/main.a0cd3232.css",
-    "main.js": "/portfolio-harsh/static/js/main.01741cfe.js",
+    "main.js": "/portfolio-harsh/static/js/main.391dfd64.js",
     "static/js/734.3236ec45.chunk.js": "/portfolio-harsh/static/js/734.3236ec45.chunk.js",
     "static/js/914.0036b129.chunk.js": "/portfolio-harsh/static/js/914.0036b129.chunk.js",
     "static/js/384.6dbd65a2.chunk.js": "/portfolio-harsh/static/js/384.6dbd65a2.chunk.js",
-    "static/js/823.b9e3fcfe.chunk.js": "/portfolio-harsh/static/js/823.b9e3fcfe.chunk.js",
+    "static/js/823.98091bc4.chunk.js": "/portfolio-harsh/static/js/823.98091bc4.chunk.js",
     "static/js/29.563251a6.chunk.js": "/portfolio-harsh/static/js/29.563251a6.chunk.js",
     "static/js/580.6159bae5.chunk.js": "/portfolio-harsh/static/js/580.6159bae5.chunk.js",
     "static/js/607.cd5e766f.chunk.js": "/portfolio-harsh/static/js/607.cd5e766f.chunk.js",
@@ -24,11 +24,11 @@
     "static/media/landing.md": "/portfolio-harsh/static/media/landing.afd86d4b591a8f8f648f.md",
     "static/media/cursor.svg": "/portfolio-harsh/static/media/cursor.3989a4ea8fc8aa4df44e.svg",
     "main.a0cd3232.css.map": "/portfolio-harsh/static/css/main.a0cd3232.css.map",
-    "main.01741cfe.js.map": "/portfolio-harsh/static/js/main.01741cfe.js.map",
+    "main.391dfd64.js.map": "/portfolio-harsh/static/js/main.391dfd64.js.map",
     "734.3236ec45.chunk.js.map": "/portfolio-harsh/static/js/734.3236ec45.chunk.js.map",
     "914.0036b129.chunk.js.map": "/portfolio-harsh/static/js/914.0036b129.chunk.js.map",
     "384.6dbd65a2.chunk.js.map": "/portfolio-harsh/static/js/384.6dbd65a2.chunk.js.map",
-    "823.b9e3fcfe.chunk.js.map": "/portfolio-harsh/static/js/823.b9e3fcfe.chunk.js.map",
+    "823.98091bc4.chunk.js.map": "/portfolio-harsh/static/js/823.98091bc4.chunk.js.map",
     "29.563251a6.chunk.js.map": "/portfolio-harsh/static/js/29.563251a6.chunk.js.map",
     "580.6159bae5.chunk.js.map": "/portfolio-harsh/static/js/580.6159bae5.chunk.js.map",
     "607.cd5e766f.chunk.js.map": "/portfolio-harsh/static/js/607.cd5e766f.chunk.js.map",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.a0cd3232.css",
-    "static/js/main.01741cfe.js"
+    "static/js/main.391dfd64.js"
   ]
 }
