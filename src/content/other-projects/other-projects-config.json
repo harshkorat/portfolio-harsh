@@ -1,64 +1,32 @@
 [
     {
-        "id": "other-project-post",
-        "title": "Part of Speech Tagger",
+        "id": "other-project-1",
+        "title": "E-Post SmartSend",
         "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/post",
-        "demo": "https://hrishikeshpaul.github.io/post/",
-        "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
-        "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/portfolio-harsh/assets/other-projects/post.webp",
-        "jpg": "/portfolio-harsh/assets/other-projects/post.jpeg"
+        "tags": ["NodeJS", "JavaScript", "MongoDB", "JIRA", "Agile", "Java", "Spring Boot", "GCP", "Confluence", "Swagger"],
+        "description": "E-Post SmartSend, a secure digital mailbox platform for Swiss Post, using Java and Node.js for backend services and React.js for a responsive frontend. Integrated MongoDB for efficient data storage and Google Cloud Platform (GCP) for scalable cloud deployment and enhanced security. Collaborated with eBill to ensure seamless digital mail delivery, improving user experience and reducing paper dependency.",
+        "image": "/portfolio-harsh/assets/other-projects/ePost-SmartSend.webp",
+        "jpg": "/portfolio-harsh/assets/other-projects/ePost-SmartSend.jpeg"
 
     },
     {
-        "id": "other-project-noq",
-        "title": "NoQ Job Portal",
+        "id": "other-project-2",
+        "title": "E-Procurement System (Forward Auction, Reverse Auction, RFQ)",
         "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/noq",
-        "demo": "http://noq-client.herokuapp.com/login",
-        "tags": ["Vue", "NodeJS", "JavaScript", "MongoDB", "Heroku", "Agile", "Sockets", "JIRA"],
-        "description": "NoQ is a tool which allows for both employers and students to skip the hassle seen in modern day career fairs, while effectively pairing up students with employees based on various factors.",
-        "readMore": "https://hrishikeshpaul.medium.com/noq-a-job-portal-for-college-career-fairs-9996bbb37a1c",
-        "image": "/portfolio-harsh/assets/other-projects/noq.webp",
-        "jpg": "/portfolio-harsh/assets/other-projects/noq.jpeg"
+        "tags": ["Java", "JSP", "Spring MVC", "JavaScript", "MySql", "HTML", "Bootstrap", "JQuery", "JIRA"],
+        "description": "Forward Auction: A digital platform where multiple buyers compete to secure items like surplus inventory or used vehicles, reducing time and expanding bidder reach compared to manual processes. Reverse Auction: An online negotiation tool used in the final stage of sourcing to improve procurement efficiency, reduce paperwork, and enhance transparency, helping buyers get better prices while providing vendors with real-time competitiveness feedback. Request For Quotation (RFQ): An electronic tool for buyers to quickly obtain quotes for goods or services, used for initial price discovery before conducting an auction to secure the best market price.",
+        "image": "/portfolio-harsh/assets/other-projects/blank.webp",
+        "jpg": "/portfolio-harsh/assets/other-projects/blank.jpeg"
     },
     {
-        "id": "other-project-bank-compare",
-        "title": "Experience Design Anaysis",
+        "id": "other-project-3",
+        "title": "Placement Selection System",
         "year": "Aug 2019 - Dec 2019",
-        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
-        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
-        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
-        "image": "/portfolio-harsh/assets/other-projects/bank.webp",
-        "jpg": "/portfolio-harsh/assets/other-projects/bank.jpeg"
-    },
-    {
-        "id": "other-project-bunder",
-        "title": "Bunder",
-        "year": "Jan 2020 - Apr 2020",
-        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
-        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
-        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
-        "image": "/portfolio-harsh/assets/other-projects/bunder.webp",
-        "jpg": "/portfolio-harsh/assets/other-projects/bunder.jpeg"
-    },
-    {
-        "id": "other-project-suicide-analyzer",
-        "title": "Suicide Analyzer",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
-        "github": "https://github.com/hrishikeshpaul/whodata",
-        "image": "/portfolio-harsh/assets/other-projects/suicide-analyzer.webp",
-        "jpg": "/portfolio-harsh/assets/other-projects/suicide-analyzer.jpeg"
-    },
-    {
-        "id": "other-project-nutricare",
-        "title": "Nutricare",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
-        "readMore": "https://angel.co/projects/576300-nutricare",
-        "image": "/portfolio-harsh/assets/other-projects/nutricare.webp",
-        "jpg": "/portfolio-harsh/assets/other-projects/nutricare.jpeg"
+        "github": "https://github.com/harshkorat/placement-selection-system.git",
+        "tags": ["Java", "JSP", "MySql", "HTML", "CSS", "JavaScript", "Bootstrap"],
+        "description": "This project automates the selection process activities that the HR Department has to perform prior to and after the actual act of selecting the employees. These activities constitutes tasks like collect Eligible Student details.",
+        "readMore": "https://drive.google.com/file/d/1ldkq4tGEMhqDzXKVR2mlGpr0WH0jMCTb/view",
+        "image": "/portfolio-harsh/assets/other-projects/blank.webp",
+        "jpg": "/portfolio-harsh/assets/other-projects/blank.jpeg"
     }
 ]
